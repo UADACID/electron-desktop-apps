@@ -1,6 +1,6 @@
 # electron-react-tutorial
+ designed to show how Electron, React, and webpack can work together build some desktop app.
 
-This project is a learning resource designed to show how Electron, React, and webpack can work together.
 
 ### Instructions
 
@@ -10,4 +10,9 @@ npm run-script watch
 
 # open a new terminal
 npm start
+
+
 ```
+### Customize
+
+---
