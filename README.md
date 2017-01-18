@@ -14,4 +14,7 @@ npm start
 
 ```
 ### Customize
-not yet
+
+```bash
+soon
+```
