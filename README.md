@@ -1,4 +1,4 @@
-# electron-react-tutorial
+# Make desktop app with js
  designed to show how Electron, React, and webpack can work together build some desktop app.
 
 
